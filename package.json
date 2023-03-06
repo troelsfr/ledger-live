@@ -128,10 +128,10 @@
       "react-native-webview@11.26.1": "patches/react-native-webview@11.26.1.patch"
     },
     "packageExtensions": {
-        "@zilliqa-js/account": {
-            "dependencies": {
-                "hash.js": "^1.1.7"
-            }
+      "@zilliqa-js/account": {
+        "dependencies": {
+          "hash.js": "^1.1.7"
         }
+      }
     }
 }
