@@ -38,5 +38,4 @@ export default {
   tron,
   zilliqa,
   polkadot,
- zilliqa
 };
