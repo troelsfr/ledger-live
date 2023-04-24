@@ -86,11 +86,11 @@ const envDefinitions: Record<
     parser: stringParser,
     desc: "Node endpoint for celo",
   },
- COSMOS_GAS_AMPLIFIER: {
-   def: 1.2,
-   parser: intParser,
-   desc: "Cosmos gas estimate multiplier",
- },
+  COSMOS_GAS_AMPLIFIER: {
+    def: 1.2,
+    parser: intParser,
+    desc: "Cosmos gas estimate multiplier",
+  },
   API_ZILLIQA_INDEXER_API_ENDPOINT: {
     def: "https://zilliqa.coin.ledger.com/indexer/v1/zilliqa/",
     parser: stringParser,
